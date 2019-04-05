@@ -1,2 +1,2 @@
 github "ReactiveCocoa/ReactiveCocoa" ~> 8.0.0
-github "iwasrobbed/Down" ~> 0.5.2
+github "iwasrobbed/Down"
